@@ -97,6 +97,7 @@ a:visited {
 
 li {
 	display: inline;
+	vertical-align: middle;
 	padding-left: 2px;
 }
 
